@@ -10,11 +10,12 @@
 
 ---
 
-- 🎓  PhD | 🌍 Earth | 🌊 Ocean | 🌕 Planet
-- 💻  Open source | Community projects| Computing 
-- 🏞️  Basketball  | Running | Climbing| Swimming
-- 🌱  Appreciate things that are quiet yet powerful 💪
-- 🎯  Python | C++ | Matlab| Fortran
+- 🎓  PhD 🌍 Earth  🌊 Ocean  🌕 Planet
+- 💻  Open source 🎈Community projects 🚀 Computing 
+- 🏀  Basketball  🏃 Running  🧗 Climbing  🏊 Swimming
+- 🎯  Python  📖 C++  🧮 Matlab 📚 Fortran
+- 🌳  Appreciate things that are quiet yet powerful 💪
+
 
 
 ---
