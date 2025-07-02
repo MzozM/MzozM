@@ -3,9 +3,8 @@
 <p align="center">
   <img src="profile.jpg" height="200" alt="profile"/>
 </p>
-https://github.com/MzozM/MzozM/blob/main/README.md
 <p align="center">
-  <b>🎓 PhD | 🎈Open source enthusiast | 🌳 Outdoor lover | 💪Admire quiet yet powerful </b>
+  <b> 🎓 PhD | 🎈Open source enthusiast | 🌳 Outdoor lover | 💪Admire quiet yet powerful </b>
 </p>
 
 ---
