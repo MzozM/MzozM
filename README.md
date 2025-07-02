@@ -10,13 +10,13 @@
 
 ---
 
-- 🎓  PhD student/graduated, focusing on Earth sciences and computing
-- 💻  Passionate about open source, active in community projects
-- 🏞️  Outdoor enthusiast: hiking, climbing, swimming
+- 🎓  PhD | Earth sciences 
+- 💻  Open source | community projects| computing 
+- 🏞️  Basketball  | running | climbing| swimming
 - 🌱  Appreciate things that are quiet yet powerful
-- 🐍  Skilled in Python, C++, Matlab, Fortran
-- 🌊  Interested in Earth, ocean, and geophysics
-- 📚  Love learning and sharing
+- 🎯  Python | C++ | Matlab| Fortran
+- 🌊  Interested in Earth, ocean, and planet
+
 
 ---
 
