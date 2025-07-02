@@ -10,12 +10,11 @@
 
 ---
 
-- 🎓  PhD | Earth sciences 
-- 💻  Open source | community projects| computing 
-- 🏞️  Basketball  | running | climbing| swimming
-- 🌱  Appreciate things that are quiet yet powerful
+- 🎓  PhD | 🌍 Earth | 🌊 Ocean | 🌕 Planet
+- 💻  Open source | Community projects| Computing 
+- 🏞️  Basketball  | Running | Climbing| Swimming
+- 🌱  Appreciate things that are quiet yet powerful 💪
 - 🎯  Python | C++ | Matlab| Fortran
-- 🌊  Interested in Earth, ocean, and planet
 
 
 ---
